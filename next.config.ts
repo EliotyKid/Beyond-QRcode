@@ -5,12 +5,12 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/",
-        destination: "http://localhost:3000/",
+        destination: "https://beyondxpe.com/",
         permanent: false,
       },
       {
         source: "/tengu",
-        destination: "http://localhost:3000/tengu",
+        destination: "https://beyondxpe.com/tengu",
         permanent: false,
       },
     ];
